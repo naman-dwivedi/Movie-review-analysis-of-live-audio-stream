@@ -1,0 +1,7 @@
+!pip install SpeechRecognition
+!pip install nltk
+!pip install pyaudio
+!pip install wave
+!pip install Werkzeug
+!pip install wave
+!pip install numpy
